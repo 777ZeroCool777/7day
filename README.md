@@ -4,8 +4,8 @@
 Информация взята с сайта https://sinoptik.ua
 
 ###Требуемые библиотеки
-*nokogiri*
-*open-uri*
+*nokogiri*  
+*open-uri*  
 *unicode_utils*
 
 ###Запуск
